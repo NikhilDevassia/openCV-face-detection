@@ -4,3 +4,4 @@ Face detection using openCV
 contributors
 @NikhilDevassia
 @adharshcb
+@akshaysanil
