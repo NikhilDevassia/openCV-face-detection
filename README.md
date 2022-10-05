@@ -5,3 +5,4 @@ contributors
 @NikhilDevassia
 @adharshcb
 @akshaysanil
+@amalhari
